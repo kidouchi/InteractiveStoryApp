@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material.Light.NoActionBar">
+    </style>
+
+    <style name="WhiteButton">
+        <item name="android:background">#FFFFFFFF</item>
+        <item name="android:textColor">#FF3A8AEC</item>
+    </style>
+</resources>
